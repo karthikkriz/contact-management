@@ -64,7 +64,7 @@
 
 #thtdview {
     text-align: left;
-    padding: 3px;
+    padding: 4px;
 }
 
 #backdrop {
@@ -85,7 +85,7 @@
     z-index: 99;
     top: 50px;
     position: absolute;
-    margin-left: calc(23% - 250px);
+    margin-left: calc(24% - 250px);
     background-color: whitesmoke;
 }
 
